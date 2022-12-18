@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 
-- None
+- Html, CSS
 
 <br />
 
